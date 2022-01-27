@@ -12,5 +12,5 @@ Pensemos como científicos de datos y definamos claramente algunos de sus proble
 
 Como analista de datos o científico de datos, estas son algunas de las preguntas en las que podemos empezar a pensar. 
 
-### Nota: 
+#### Nota: 
 Este proyecto forma parte del curso [Análisis de datos con Python](https://es.coursera.org/learn/analisis-de-datos-con-python) dictado por IBM y coursera el cual finalicé en el mes de enero del 2022.
