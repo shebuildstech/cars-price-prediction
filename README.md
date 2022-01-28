@@ -13,4 +13,37 @@ Pensemos como científicos de datos y definamos claramente algunos de sus proble
 Como analista de datos o científico de datos, estas son algunas de las preguntas en las que podemos empezar a pensar. 
 
 #### Nota: 
-Este proyecto forma parte del curso [Análisis de datos con Python](https://es.coursera.org/learn/analisis-de-datos-con-python) dictado por IBM y coursera el cual finalicé en el mes de enero del 2022.
+Este conjunto de datos forma parte del curso [Análisis de datos con Python](https://es.coursera.org/learn/analisis-de-datos-con-python) dictado por IBM y coursera el cual finalicé en el mes de enero del 2022.
+
+--- 
+
+### Descripción de los datos
+| Variable | Descripción
+:--- |:--- 
+symboling | Factor de riesgo. Un valor de +3 indica que el auto es riesgoso, -3 que probablemente sea bastante seguro.
+normalized-losses | Representa la pérdida promedio por auto por año.
+make | Marca del vehículo
+fuel-type | Tipo de combustible
+aspiration | Tipo de motor (aspirado o turbo)
+num-of-doors | Número de puertas
+body-style | Tipo de carrocería 
+drive-wheels | Sistema de tracción
+engine-location | Ubicación del motor
+wheel-base | Distancia entre ejes
+length | Longitud del vehículo
+width | Ancho del vehículo
+height | Altura del vehículo
+curb-weight | Peso en vacío 
+engine-type |
+num-of-cylinders |
+engine-size | Tamaño del motor
+fuel-system | 
+bore |
+stroke |
+compression-ratio |
+horsepower |
+peak-rpm |
+city-mpg |
+highway-mpg |
+price |
+
