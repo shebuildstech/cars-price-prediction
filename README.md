@@ -22,4 +22,31 @@ Este proyecto lo desarrollé durante los laboratorios del curso [Análisis de da
 - Data wrangling
 - Análisis exploratorio
 
+--- 
+
+### 🔍 Conclusiones del proyecto
+**1. Cuál es el ritmo de consumo de combustible (L/100k) de un automovil de diesel?** </p>
+<img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/consumo-diesel.jpg" /><img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/diferencia-diesel.jpg" /></p>
+
+Respecto al consumo de combustible (L/100k) de un automovil de diesel se concluye lo siguiente:
+- De las 22 marcas de carro en el conjunto de datos, solo siete tienen asociado combustible de tipo diesel.
+- La marca "mercedes-benz" es la que más consume combustible por cada 100km y la marca "nissan" es la que menos consume.
+- La marca "volvo" es la que menos diferencia presenta entre el consumo en la ciudad y en carretera.
+- Las marcas "merces-benz" y "mazda" son las que más diferencia tienen entre el consumo en la ciudad y en carretera.
+- Las marcas "toyota" y "peugot" tienen un comportamiento parecido respecto a la diferencia de consumo en la ciudad y en carretera.</p></p></p>
+
+#    
+**2. ¿Qué pasaría si solo nos ocuparamos de las diferencias de precio entre automoviles con altos, medios y pocos caballos de fuerza? ¿Podríamos reacomodarlos dentro de tres "contenedores" para facilitar el análisis?**</p>
+<img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/Horsepower-bins.jpg" /><img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/Hpbins-price.jpg" /></p>
+
+Respecto a las diferencias de precio entre automoviles con altos, medios y pocos horsepower se concluye lo siguiente:
+- El 76.1% de los datos pertenecen a la categoría de "pocos" horsepower. 
+- El 21.4% de los datos pertenecen a la categoría de "medios" horsepower.
+- Tan solo el 2.5% de los datos pertenecen a la categoría de "altos" horsepower.
+- Los automoviles de categoría "pocos" tienen un costo promedio de 9989.752
+- Los automoviles de categoría "medios" tienen un costo promedio de 22486.465
+- Los automoviles de categoría "pocos" tienen un costo promedio de 31856.600
+- Respecto a lo anterior, entonces se puede decir que la potencia del vehículo influye fuertemente en su precio, aunque se presentan con mayor frecuencia los que tienen baja potencia.</p>
+
+#      
 
