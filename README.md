@@ -25,10 +25,10 @@ Este proyecto lo desarrollé durante los laboratorios del curso [Análisis de da
 --- 
 
 ### 🔍 Conclusiones del proyecto
-**1. Cuál es el ritmo de consumo de combustible (L/100k) de un automovil de diesel?** </p>
+**1. Cuál es el ritmo de consumo de combustible (L/100km) de un automovil de diesel?** </p>
 <img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/consumo-diesel.jpg" /><img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/diferencia-diesel.jpg" /></p>
 
-Respecto al consumo de combustible (L/100k) de un automovil de diesel se concluye lo siguiente:
+Respecto al consumo de combustible (L/100km) de un automovil de diesel se concluye lo siguiente:
 - De las 22 marcas de carro en el conjunto de datos, solo siete tienen asociado combustible de tipo diesel.
 - La marca "mercedes-benz" es la que más consume combustible por cada 100km y la marca "nissan" es la que menos consume.
 - La marca "volvo" es la que menos diferencia presenta entre el consumo en la ciudad y en carretera.
