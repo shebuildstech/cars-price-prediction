@@ -26,7 +26,7 @@ Este proyecto lo desarrollé durante los laboratorios del curso [Análisis de da
 
 ### 🔍 Conclusiones del proyecto
 **1. Cuál es el ritmo de consumo de combustible (L/100km) de un automovil de diesel?** </p>
-<img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/consumo-diesel.jpg" /><img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/diferencia-diesel.jpg" /></p>
+<img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/bc9a39f5fc5415c419f03bec59f181788b399465/images/consumo-diesel.jpg" /><img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/bc9a39f5fc5415c419f03bec59f181788b399465/images/diferencia-diesel.jpg" /></p>
 
 Respecto al consumo de combustible (L/100km) de un automovil de diesel se concluye lo siguiente:
 - De las 22 marcas de carro en el conjunto de datos, solo siete tienen asociado combustible de tipo diesel.
@@ -37,7 +37,7 @@ Respecto al consumo de combustible (L/100km) de un automovil de diesel se conclu
 
 #    
 **2. ¿Qué pasaría si solo nos ocuparamos de las diferencias de precio entre automoviles con altos, medios y pocos caballos de fuerza? ¿Podríamos reacomodarlos dentro de tres "contenedores" para facilitar el análisis?**</p>
-<img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/Horsepower-bins.jpg" /><img width="650" src="https://github.com/abloominghill/cars-price-prediction/blob/8ba659898c618304db3640e98c3beb06e62c1f66/images/Hpbins-price.jpg" /></p>
+<img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/bc9a39f5fc5415c419f03bec59f181788b399465/images/Horsepower-bins.jpg" /><img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/bc9a39f5fc5415c419f03bec59f181788b399465/images/Hpbins-price.jpg" /></p>
 
 Respecto a las diferencias de precio entre automoviles con altos, medios y pocos horsepower se concluye lo siguiente:
 - El 76.1% de los datos pertenecen a la categoría de "pocos" horsepower. 
