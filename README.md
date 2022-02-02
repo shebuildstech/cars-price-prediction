@@ -57,7 +57,7 @@ Respecto a las diferencias de precio entre automoviles con altos, medios y pocos
 
 - Bore: es estadísticamente significativa y la correlación con la variable precio es moderada (0.54)
   <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/borevsprice.jpg" />
-- Wheels-base: es estadísticamente significativa y la correlación con la variable precio es moderada (0.58)
+- Wheel-base: es estadísticamente significativa y la correlación con la variable precio es moderada (0.58)
   <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/wheel-basevsprice.jpg" />
 - Length: es estadísticamente significativa y la correlación con la variable precio es moderadamente fuerte (0.69)
   <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/lengthvsprice.jpg" />
