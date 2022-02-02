@@ -79,3 +79,15 @@ Respecto a las diferencias de precio entre automoviles con altos, medios y pocos
  **Nota:** Al analizar la correlación entre las viables métricas City y Highway en L/100Km la correlación da positiva.
  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/city-L100kmvsprice.jpg" />
  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/0e67055bb780f85143ee4e48513c2b0848cac4bd/images/highway-L100kmvsprice.jpg" />
+ 
+**- Variables catégoricas:**
+
+- Drive-wheels: la distribución de precios entre las diferentes categorías de drive-wheels es diferente; por tanto, esta variable es buena predictora del precio.
+ <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/9ec207a6694539f5845bd9dbaacf37ea911152f3/images/drive-wheelsvsprice.jpg" />
+- Las variables body-style y engine-location no son unas buenas predictoras del precio ya que, las distribución de precios entre las diferentes categorías de la primera tienen una superposición significativa y, la distribución de precios entre las diferentes categorías de la segunda son demasiado distintas.
+ <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/9ec207a6694539f5845bd9dbaacf37ea911152f3/images/body-stylevsprice.jpg" />
+ <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/9ec207a6694539f5845bd9dbaacf37ea911152f3/images/engine-locationvsprice.jpg" />
+
+
+
+
