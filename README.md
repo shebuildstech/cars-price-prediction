@@ -20,8 +20,8 @@ Este proyecto lo desarrollé durante los laboratorios del curso [Análisis de da
 ### 📑 Contenido:
 - [Descripción de los datos](https://github.com/abloominghill/cars-price-prediction/blob/916bd57b773e6d9a479b90d12a8bdeb78221988a/Descripci%C3%B3n%20de%20los%20datos.md)
 - [Data wrangling](https://github.com/abloominghill/cars-price-prediction/blob/a3a32b1304382ba1c19d49490540d723e810403e/notebooks/cars-notebook1.ipynb)
-- [Análisis exploratorio]()
-- [Desarrollo del Modelo]
+- [Análisis exploratorio](https://github.com/abloominghill/cars-price-prediction/blob/d21a24b056d1e8b3f25e80ed92edcbceaf372ec7/notebooks/cars-notebook2.ipynb)
+- [Desarrollo del Modelo]()
 
 --- 
 
@@ -58,7 +58,7 @@ Respecto a las diferencias de precio entre automoviles con altos, medios y pocos
 - Bore: es estadísticamente significativa y la correlación con la variable precio es moderada (0.54)
   <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/borevsprice.jpg" />
 - Wheel-base: es estadísticamente significativa y la correlación con la variable precio es moderada (0.58)
-  <img width="650" align="center" src="" />
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/d21a24b056d1e8b3f25e80ed92edcbceaf372ec7/images/wheel-basevsprice.jpg" />
 - Length: es estadísticamente significativa y la correlación con la variable precio es moderadamente fuerte (0.69)
   <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/lengthvsprice.jpg" />
 - Width: es estadísticamente significativa y la correlación con la variable precio es fuerte (0.75)
