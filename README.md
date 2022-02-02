@@ -25,10 +25,10 @@ Este proyecto lo desarrollé durante los laboratorios del curso [Análisis de da
 --- 
 
 ### 🔍 Conclusiones del proyecto
-**1. Cuál es el ritmo de consumo de combustible (L/100km) de un automovil de diesel?** </p>
+**1. Cuál es el ritmo de consumo de combustible (L/100km) de un automóvil de diesel?** </p>
 <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/bc9a39f5fc5415c419f03bec59f181788b399465/images/consumo-diesel.jpg" /><img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/bc9a39f5fc5415c419f03bec59f181788b399465/images/diferencia-diesel.jpg" /></p>
 
-Respecto al consumo de combustible (L/100km) de un automovil de diesel se concluye lo siguiente:
+Respecto al consumo de combustible (L/100km) de un automóvil de diesel se concluye lo siguiente:
 - De las 22 marcas de carro en el conjunto de datos, solo siete tienen asociado combustible de tipo diesel.
 - La marca "mercedes-benz" es la que más consume combustible por cada 100km y la marca "nissan" es la que menos consume.
 - La marca "volvo" es la que menos diferencia presenta entre el consumo en la ciudad y en carretera.
@@ -78,4 +78,4 @@ Respecto a las diferencias de precio entre automoviles con altos, medios y pocos
 
  **Nota:** Al analizar la correlación entre las viables métricas City y Highway en L/100Km la correlación da positiva.
  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/city-L100kmvsprice.jpg" />
- <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/city-L100kmvsprice.jpg" />
+ <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/0e67055bb780f85143ee4e48513c2b0848cac4bd/images/highway-L100kmvsprice.jpg" />
