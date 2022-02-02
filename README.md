@@ -50,3 +50,32 @@ Respecto a las diferencias de precio entre automoviles con altos, medios y pocos
 
 #      
 
+**3. ¿Cuáles son las caracteristicas principales que más impactan en el precio de un coche?**
+
+**- Variables númericas de correlación positiva**
+
+- Bore: es estadísticamente significativa y la correlación con la variable precio es moderada (0.54)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/borevsprice.jpg" />
+- Wheels-base: es estadísticamente significativa y la correlación con la variable precio es moderada (0.58)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/wheel-basevsprice.jpg" />
+- Length: es estadísticamente significativa y la correlación con la variable precio es moderadamente fuerte (0.69)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/lengthvsprice.jpg" />
+- Width: es estadísticamente significativa y la correlación con la variable precio es fuerte (0.75)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/widthvsprice.jpg" />
+- Curb-weight: es estadísticamente significativa y la correlación con la variable precio es fuerte (0.83)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/curb-weightvsprice.jpg" />
+- Engine-size: es estadísticamente significativa y la correlación con la variable precio es fuerte (0.87)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/engine-sizevsprice.jpg" />
+- Horsepower: es estadísticamente significativa y la correlación con la variable precio es fuerte (0.87)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/horsepowervsprice.jpg" />
+  
+**- Variables númericas de correlación negativa**
+
+- City-mpg: es estadísticamente significativa y la correlación con la variable precio es moderadamente fuerte (-0.68)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/city-mpgvsprice.jpg" />
+- Highway-mpg: es estadísticamente significativa y la correlación con la variable precio es fuerte (-0.70)
+  <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/highway-mpgvsprice.jpg" />
+
+ **Nota:** Al analizar la correlación entre las viables métricas City y Highway en L/100Km la correlación da positiva.
+ <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/city-L100kmvsprice.jpg" />
+ <img width="650" align="center" src="https://github.com/abloominghill/cars-price-prediction/blob/86cdcfc6d4f4bf964c496a931128bab9b08791de/images/city-L100kmvsprice.jpg" />
