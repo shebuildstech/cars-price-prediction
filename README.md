@@ -19,8 +19,8 @@ Este proyecto lo desarrollé durante los laboratorios del curso [Análisis de da
 
 ### 📑 Contenido:
 - [Descripción de los datos](https://github.com/abloominghill/cars-price-prediction/blob/916bd57b773e6d9a479b90d12a8bdeb78221988a/Descripci%C3%B3n%20de%20los%20datos.md)
-- [Data wrangling](https://github.com/abloominghill/cars-price-prediction/blob/a3a32b1304382ba1c19d49490540d723e810403e/notebooks/cars-notebook1.ipynb)
-- [Análisis exploratorio](https://github.com/abloominghill/cars-price-prediction/blob/d21a24b056d1e8b3f25e80ed92edcbceaf372ec7/notebooks/cars-notebook2.ipynb)
+- [Data wrangling]()
+- [Análisis exploratorio]()
 - [Desarrollo del Modelo]()
 
 --- 
